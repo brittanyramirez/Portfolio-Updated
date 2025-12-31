@@ -191,6 +191,27 @@ textarea {
     transition: all 0.3s ease;
     width: fit-content;
 }
+/* back to the top button styling*/
+    #backToTop{
+    position: fixed;
+    bottom: 70px;
+    right: 10px;
+    background-color: #da627d;
+    color: white;
+    border: none;
+    padding: 0.7rem 1.2rem;
+    border-radius: 999px;
+    cursor: pointer;
+    font-weight: 600;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    transition: all 0.3s ease;
+    z-index: 1000;
+    }
+  
+
+    #backToTop:hover{
+        transform: scale(1.08);
+    }
 
 /* Mobile (768px and below) */
 @media (max-width: 768px) {
@@ -250,6 +271,9 @@ textarea {
   .social-icons img {
     width: 22px;
     height: 22px;
+  }
+  .back-to-top {
+    display: block;
   }
 }
 /* Tablet (769px – 1024px) */

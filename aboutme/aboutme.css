@@ -130,6 +130,10 @@ a {
     font-style: italic;
     font-size: 28px;
 }
+.fact-card.active {
+  background-color: #f3c8d0;
+  font-style: italic;
+}
 
 /*quotes*/
 .quotes {
@@ -154,7 +158,28 @@ blockquote {
     border: none;
     cursor: pointer;
 }
+  
+/* back to the top button styling*/
+    #backToTop{
+    position: fixed;
+    bottom: 70px;
+    right: 10px;
+    background-color: #da627d;
+    color: white;
+    border: none;
+    padding: 0.7rem 1.2rem;
+    border-radius: 999px;
+    cursor: pointer;
+    font-weight: 600;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+    transition: all 0.3s ease;
+    z-index: 1000;
+    }
+  
 
+    #backToTop:hover{
+        transform: scale(1.08);
+    }
 /*FOOTER*/
 .footer::before {
   content: "";
