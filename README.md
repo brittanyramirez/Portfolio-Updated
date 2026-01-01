@@ -109,7 +109,7 @@ This project reflects not just what I’ve learned, but how I approach problem s
 
 ## 👩🏽‍💻 About Me
 
-I’m **Brittany Ramirez**, a front end developer with a background in medical assisting who transitioned into software engineering through the Road to Hire Coding Apprenticeship. I’m passionate about building user focused interfaces, learning new technologies, and creating meaningful digital experiences.
+I’m **Brittany Ramirez**, an apprentice at Road To Hire in the coding track with a background in medical assisting who transitioned into software engineering through the Road to Hire Coding Apprenticeship. I’m passionate about building user focused interfaces, learning new technologies, and creating meaningful digital experiences.
 
 
 
